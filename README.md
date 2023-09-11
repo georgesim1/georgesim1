@@ -18,11 +18,9 @@
 <br>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/TheDudeThatCode)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | ||||||
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
+![github](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=black)
+![gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=Gmail&logoColor=red)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=blue)
 
 
 <br>
