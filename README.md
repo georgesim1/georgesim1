@@ -5,13 +5,12 @@
   <tr>
     <td valign="center">
       
-      🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. 
+      🎓 I am currently pursuing my **Master's in Full-Stack Development**. 
       
-      🌱 I am currently learning **Java** and also interested in **Web Development**. 
+      🌱 I am currently learning **Full-Stack Development** and also interested in **AI**. 
       
-      🎯 My Goal is to Contribute to as many **open source project** as possible. 
+      🎯 My Goal is to Contribute to as many **open source project** as possible and to grow as a developer. 
       
-      ✨ I love to create different types of **contents**.
 <td>
      <a href="https://app.daily.dev/g_simak"><img src="https://api.daily.dev/devcards/5a32d7a5dde849788e9c809c793addbc.png?r=na9" width="400" alt="GS's Dev Card"/></a>
     </td>
